@@ -4,6 +4,8 @@
 
 **SUMMARY**
 
+![Tagcloud](resume_tagcloud.jpeg)
+
 Experienced software engineer skilled in all phases of the software
 development lifecycle:
 
