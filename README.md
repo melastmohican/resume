@@ -56,6 +56,7 @@ development lifecycle:
 
 -   Collaborated with geographically distributed teams on multiple
     development projects.
+> OKBC (Open Knowledge Base Connectivity), Java, Servlet, Hibernate, Groovy, Grails, GORM (Grails Object-Relational Mapping), HTTP (Hypertext Transfer Protocol), Webservices, Convention over configuration, MVC (Model–view–controller), Oracle PL/SQL, Maven, SVN (Apache Subversion), GIT, jQuery, Google Apps Script, HQL ( Hibernate Query Language), JSON (avaScript Object Notation), JSP (Java Server Pages), GSP (Groovy Server Pages), JSF( Java Server Faces), YourKit, OpenBEL (Biological Expression Language), Spring Batch, Jenkins, CI (continuous integration), H2, JDBC (Java Database Connectivity), Spring Framework,Google Apps Script, XSLT (Extensible Stylesheet Language Transformations), JUnit
 
 **Senior Software Engineer** July 2007 – March 2015
 
@@ -76,6 +77,7 @@ development lifecycle:
 -   Trained software developers how to use various technologies through
     code samples, developer guides, quick starts, tutorials, API
     reference, quick references, online help, web articles.
+> Java, Groovy, XQuery, XSLT (Extensible Stylesheet Language Transformations), SPARQL (SPARQL Protocol and RDF Query Language), Restful Webservices (Representational state transfer), Restlet, XML (Extensible Markup Language), JDOM (Java Document Object Model ), XPath (XML Path Language), SAX (Simple API for XML), Google Guice, XForms, RelaxNG, WADL (Web Application Description Language), L34T (Literal-Result-Element-As-Stylesheet), HTML (Hypertext Markup Language ), HTTP (Hypertext Transfer Protocol), TestNG, Mockito,SVN (Apache Subversion), Apache Ant, Eclipse, Git, Jenkins, YourKit
 
 **Senior Software Engineer** April 2006 – May 2007
 
@@ -90,6 +92,7 @@ development lifecycle:
     process, including software requirements specifications, software
     design descriptions, verification and validation plans, and other
     items as required.
+> CRM, C++, C#, .NET, ActiveX, webservices, SOAP (Simple Object Access Protocol)
 
 **Senior Software Engineer** August 2000 – March 2006
 
@@ -109,6 +112,7 @@ development lifecycle:
     Unit Testing, generating setup, creating documentation, etc. Created
     installation programs and deployment procedures for several products
     using InstallShield or Visual Studio deployment tools.
+> Network monitoring, distributed, client-server , C/C++,C#, MFC, XSLT, (Extensible Stylesheet Language Transformations), Visual Studio, DCOM (Distributed Component Object Model),TCP (Transmission Control Protocol), UDP (User Datagram Protocol), ADO (ActiveX Data Objects).NET, CI (continuous integration), InstallShield
 
 
 **Programmer/Analyst** June 1999 – June 2000
@@ -120,6 +124,7 @@ development lifecycle:
     processing systems
 
 -   Developed client/server applications using VB, VBSQL, ODBC and ADO.
+> VB (Visual Basic), VBSQL, ODBC (Open Database Connectivity), ADO (ActiveX Data Objects), MS SQL Server
 
 **Software Developer** June 1995 – June 1999
 
@@ -137,6 +142,7 @@ development lifecycle:
     InstallShield.
 
 -   Created interfaces to Crystal Reports in C++ and VB
+> C++, MFC (Microsoft Foundation Class Library), VB (Visual Basic), Crystal Reports, Win32, MS SQL Server, MS Access
 
 **EDUCATION**
 
