@@ -152,37 +152,6 @@ of Science** September 1988 – September 1993
 **Wroclaw University of Technology**, Wroclaw, Poland
 
 
-**Skills**
-|**Languages**|**Technology**|**Tools**|
-|-|-|-|
-|Java|REST|SVN
-|Groovy|Web Services|Ant
-|C#|Spring Framework|Eclipse
-|C/C++|Hibernate|Git
-|XQuery|GORM|Jira
-|VB|OKBC|Jenkins
-|HQL|SQL|YourKit
-|XSLT|Google Apps Script|Visual Studio
-|SPARQL|jQuery|
-||JSON|
-||Restlet|
-||XML|
-||JDOM|
-||XPath|
-||SAX|
-||Guice|
-||XForms|
-||RelaxNG|
-||WADL|
-||L34T|
-||.NET|
-||HTML|
-||HTTP|
-||SOAP|
-||TestNG|
-||Mockito|
-
-
 
 
 
