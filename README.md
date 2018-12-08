@@ -12,22 +12,16 @@ Experienced software engineer skilled in all phases of the software
 development lifecycle:
 
 -   Expertise in software engineering fundamentals.
-
 -   Proven ability to build high performance, secure, data-driven
     applications with quality code.
-
 -   Strong understanding of Java, web services, SQL, XML, database and
     object-oriented development.
-
 -   Solid knowledge of concepts and procedures of common software
     development methodologies.
-
 -   Extensive experience with database design, algorithm development,
     source control, multi-threaded software development environments.
-
 -   Design, develop and implement large-scale enterprise level
     distributed software systems.
-
 -   Known for ability to work with diverse consulting groups, business
     partners, designers, product developers, QA teams, and clients.
 
@@ -43,7 +37,9 @@ T-Mobile Social & Messaging Product Development (SMPD):
 -	Designed, created and consumed various Restful APIs
 -   Created webhooks for processing direct messages from social platforms
 -	Collaborated with business partners, QA and other teams on delivering on delivering high performance message driven applications.
-
+```
+Java, Spring Boot, micro services, Spring Cloud, Spring Data JPA, AWS, Apache Kafka, DynamoDB, Docker, Jenkins, Maven, GIT, JSON (JavaScript Object Notation)
+```
 
 **Associate Staff Software Developer** March 2015 - January 2018
 
@@ -65,7 +61,7 @@ T-Mobile Social & Messaging Product Development (SMPD):
 -   Collaborated with geographically distributed teams on multiple
     development projects.
 ```
-OKBC (Open Knowledge Base Connectivity), Java, Servlet, Hibernate, Groovy, Grails, GORM (Grails Object-Relational Mapping), HTTP (Hypertext Transfer Protocol), Webs ervices, Convention over configuration, MVC (Model–view–controller), Oracle PL/SQL, Maven, SVN (Apache Subversion), GIT, jQuery, Google Apps Script, HQL (Hibernate Query Language), JSON (JavaScript Object Notation), JSP (Java Server Pages), GSP (Groovy Server Pages), JSF( Java Server Faces), YourKit, OpenBEL (Biological Expression Language), Spring Batch, Jenkins, CI (continuous integration), H2, JDBC (Java Database Connectivity), Spring Framework,Google Apps Script, XSLT (Extensible Stylesheet Language Transformations), JUnit
+OKBC (Open Knowledge Base Connectivity), Java, Servlet, Hibernate, Groovy, Grails, GORM (Grails Object-Relational Mapping), HTTP (Hypertext Transfer Protocol), Webservices, Convention over configuration, MVC (Model–view–controller), Oracle PL/SQL, Maven, SVN (Apache Subversion), GIT, jQuery, Google Apps Script, HQL (Hibernate Query Language), JSON (JavaScript Object Notation), JSP (Java Server Pages), GSP (Groovy Server Pages), JSF( Java Server Faces), YourKit, OpenBEL (Biological Expression Language), Spring Batch, Jenkins, CI (continuous integration), H2, JDBC (Java Database Connectivity), Spring Framework,Google Apps Script, XSLT (Extensible Stylesheet Language Transformations), JUnit
 ```
 **Senior Software Engineer** July 2007 – March 2015
 
