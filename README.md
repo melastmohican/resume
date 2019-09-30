@@ -36,9 +36,9 @@ T-Mobile Social & Messaging Product Development (SMPD):
 -	Designed and implemented micro-service infrastructure for event broker bot
 -	Designed, created and consumed various Restful APIs
 -   Created webhooks for processing direct messages from social platforms
--	Collaborated with business partners, QA and other teams on delivering on delivering high performance message driven applications.
+-	Collaborated with business partners, QA and other teams on delivering high performance message driven applications.
 ```
-Java, Spring Boot, micro services, Spring Cloud, Spring Data JPA, AWS, Apache Kafka, DynamoDB, Docker, Jenkins, Maven, GIT, JSON (JavaScript Object Notation)
+Java, Spring Boot, Microservices, Spring Cloud, Spring Data JPA, AWS, Apache Kafka, Kafka Streams, DynamoDB, Docker, Jenkins, Maven, GIT, JSON, Chatbots, Restful APIs
 ```
 
 **Associate Staff Software Developer** March 2015 - January 2018
