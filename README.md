@@ -25,6 +25,8 @@ development lifecycle:
 -   Known for ability to work with diverse consulting groups, business
     partners, designers, product developers, QA teams, and clients.
 
+A job that will make me better. Whether through challenging assignments, educational opportunities, demanding excellence, or informal mentors.
+
 **EXPERIENCE**
 
 **Senior Software Developer** Frebruary 2018 - Present
