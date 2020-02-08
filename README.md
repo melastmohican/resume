@@ -8,22 +8,19 @@
 
 ![Tagcloud](resume_tagcloud.png)
 
-Experienced software engineer skilled in all phases of the software
-development lifecycle:
-
--   Expertise in software engineering fundamentals.
--   Proven ability to build high performance, secure, data-driven
-    applications with quality code.
--   Strong understanding of Java, web services, SQL, XML, database and
-    object-oriented development.
--   Solid knowledge of concepts and procedures of common software
-    development methodologies.
--   Extensive experience with database design, algorithm development,
-    source control, multi-threaded software development environments.
--   Design, develop and implement large-scale enterprise level
-    distributed software systems.
--   Known for ability to work with diverse consulting groups, business
-    partners, designers, product developers, QA teams, and clients.
+Principally involved with driving code direction, helping solve problems on the systems side, building out a roadmap to execute on it, rallying the team around this execution plan & executing on the plan itself.
+-	Aligning platform architecture with availability, security, and data
+-	Building consensus around platform architecture for the product and platform teams
+-	Documenting architectural standards and decision
+-	Develop a point of view working cross-organizationally to make the development, operational & larger organizational changes to be successful
+-	Build and ship services that help us achieve organization goals
+-	Communicate goals and tactics clearly to partners across the organization
+-	Think through how systems will scale and fail as they grow and deliver solutions
+-	Work throughout the stack, from frontend to backend performance and back
+-	Break down complicated problems into achievable milestones, then ship every few weeks to achieve the larger goal
+-	Design and implement REST APIs and architect inter-service communication and data flow
+-	Perform research and development on new technologies while delivering proof of concepts
+-	Help to build and grow talent, mentoring others, performing interviews
 
 A job that will make me better. Whether through challenging assignments, educational opportunities, demanding excellence, or informal mentors.
 
@@ -34,11 +31,14 @@ A job that will make me better. Whether through challenging assignments, educati
 **Logic20/20**, Seattle, Washington
 
 T-Mobile Social & Messaging Product Development (SMPD):
+* Designed and implemented micro-service infrastructure for event broker bot
+* Designed, created and consumed various Restful APIs
+* Collaborated with business partners, QA and other teams on delivering high performance message driven applications.
+* Worked on designs and research for new features we would be able to deliver in the future.
+* Mentored new developers on the team to make them contributing members.
+* Participated in cross‐organization efforts to improve the overall latency of the services.
+* Migrated over 150 microservices from Mesos to Kubernetes.
 
--	Designed and implemented micro-service infrastructure for event broker bot
--	Designed, created and consumed various Restful APIs
--   Created webhooks for processing direct messages from social platforms
--	Collaborated with business partners, QA and other teams on delivering high performance message driven applications.
 ```
 Java, Spring Boot, Microservices, Spring Cloud, Spring Data JPA, AWS, Apache Kafka, Kafka Streams, DynamoDB, Docker, Jenkins, Maven, GIT, JSON, Chatbots, Restful APIs
 ```
