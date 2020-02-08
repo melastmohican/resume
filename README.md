@@ -26,7 +26,7 @@ A job that will make me better. Whether through challenging assignments, educati
 
 **EXPERIENCE**
 
-**Senior Software Developer** Frebruary 2018 - Present
+**Lead Software Developer** Frebruary 2018 - Present
 
 **Logic20/20**, Seattle, Washington
 
