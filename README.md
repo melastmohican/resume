@@ -30,7 +30,7 @@ A job that will make me better. Whether through challenging assignments, educati
 
 ## EXPERIENCE
 **Lead Software Developer** February 2018 - Present \
-**Logic20/20**, Seattle, Washington
+**Logic20/20**, Seattle, Washington \
 T-Mobile Social & Messaging Product Development (SMPD):
 
 * Designed and implemented micro-service infrastructure for event broker bot
