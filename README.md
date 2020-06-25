@@ -32,7 +32,7 @@ T-Mobile Social & Messaging Product Development (SMPD):
 * Participated in cross‐organization efforts to improve the overall latency of the services.
 * Migrated over 150 microservices from Mesos to Kubernetes.
 
-> _Java, Spring Boot, Microservices, Spring Cloud, Spring Data JPA, AWS, Apache Kafka, Kafka Streams, DynamoDB, Docker, Jenkins, Maven, GIT, JSON, Chatbots, Restful APIs_
+> _Java, Spring Boot, Microservices, Spring Cloud, Spring Data JPA, AWS, KMS, S3, DynamoDB, Apache Kafka, Kafka Streams, DynamoDB, Docker, Jenkins, Maven, GIT, JSON, Chatbots, Restful API,Agile Development, Architecture, Containerization, Design Patterns, DevOps, Disaster Recovery, Distributed Systems, IAAS, Load Balancing, Mentoring, Migration, SAAS_
 
 
 **Associate Staff Software Developer** March 2015 - January 2018 \
@@ -48,7 +48,7 @@ T-Mobile Social & Messaging Product Development (SMPD):
 * Collaborated with geographically distributed teams on multiple development projects.
   
 > _OKBC (Open Knowledge Base Connectivity), Java, Servlet, Hibernate, Groovy, Grails, GORM (Grails Object-Relational Mapping), HTTP (Hypertext Transfer Protocol), Webservices, Convention over configuration, MVC (Model–view–controller), Oracle PL/SQL, Maven, SVN (Apache Subversion), GIT, jQuery, Google Apps Script, HQL (Hibernate Query Language), JSON (JavaScript Object Notation), JSP (Java Server Pages), GSP (Groovy Server Pages), JSF( Java Server Faces), YourKit, OpenBEL (Biological Expression Language), Spring Batch, Jenkins, CI (continuous integration), H2, JDBC (Java Database Connectivity), Spring Framework,Google Apps Script, 
-XSLT (Extensible Stylesheet Language Transformations), JUnit_
+XSLT (Extensible Stylesheet Language Transformations), JUnit, Transactions_
 
 **Senior Software Engineer** July 2007 – March 2015 \
 **Xerox Content Management**, Palo Alto, California
