@@ -32,7 +32,7 @@ T-Mobile Social & Messaging Product Development (SMPD):
 * Participated in cross‐organization efforts to improve the overall latency of the services.
 * Migrated over 150 microservices from Mesos to Kubernetes.
 
-> _Java, Spring Boot, Microservices, Spring Cloud, Spring Data JPA, AWS, KMS, S3, DynamoDB, Apache Kafka, Kafka Streams, DynamoDB, Docker, Jenkins, Maven, GIT, JSON, Chatbots, Restful API,Agile Development, Architecture, Containerization, Design Patterns, DevOps, Disaster Recovery, Distributed Systems, IAAS, Load Balancing, Mentoring, Migration, SAAS_
+> _Java, Spring Boot, Microservices, Spring Cloud, Spring Data JPA, AWS, KMS, S3, DynamoDB, NoSQL, RDS, EC2, SQS, Apache Kafka, Kafka Streams, Docker, Jenkins, Maven, GIT, JSON, Chatbots, Restful API,Agile Development, Architecture, Containerization, Design Patterns, DevOps, Disaster Recovery, Distributed Systems, IAAS, Infrastructure as a Service, Load Balancing, Mentoring, Migration, SAAS, Redis, Elasticache, Terraform,Infrastructure as Code, Oauth, Distributed Architecture, Middleware_
 
 
 **Associate Staff Software Developer** March 2015 - January 2018 \
@@ -48,7 +48,7 @@ T-Mobile Social & Messaging Product Development (SMPD):
 * Collaborated with geographically distributed teams on multiple development projects.
   
 > _OKBC (Open Knowledge Base Connectivity), Java, Servlet, Hibernate, Groovy, Grails, GORM (Grails Object-Relational Mapping), HTTP (Hypertext Transfer Protocol), Webservices, Convention over configuration, MVC (Model–view–controller), Oracle PL/SQL, Maven, SVN (Apache Subversion), GIT, jQuery, Google Apps Script, HQL (Hibernate Query Language), JSON (JavaScript Object Notation), JSP (Java Server Pages), GSP (Groovy Server Pages), JSF( Java Server Faces), YourKit, OpenBEL (Biological Expression Language), Spring Batch, Jenkins, CI (continuous integration), H2, JDBC (Java Database Connectivity), Spring Framework,Google Apps Script, 
-XSLT (Extensible Stylesheet Language Transformations), JUnit, Transactions_
+XSLT (Extensible Stylesheet Language Transformations), JUnit, Transactions, Data Driven, _
 
 **Senior Software Engineer** July 2007 – March 2015 \
 **Xerox Content Management**, Palo Alto, California
@@ -59,7 +59,7 @@ XSLT (Extensible Stylesheet Language Transformations), JUnit, Transactions_
 * Used knowledge of the platform to resolve development-related questions across a variety of supported development platforms using many different development interfaces. 
 * Trained software developers how to use various technologies through code samples, developer guides, quick starts, tutorials, API reference, quick references, online help, web articles. 
 
-> _Java, Groovy, XQuery, XSLT (Extensible Stylesheet Language Transformations), SPARQL (SPARQL Protocol and RDF Query Language), Restful Webservices (Representational state transfer), Restlet, XML (Extensible Markup Language), JDOM (Java Document Object Model ), XPath (XML Path Language), SAX (Simple API for XML), Google Guice, XForms, RelaxNG, WADL (Web Application Description Language), L34T (Literal-Result-Element-As-Stylesheet), HTML (Hypertext Markup Language ), HTTP (Hypertext Transfer Protocol), TestNG, Mockito,SVN (Apache Subversion), Apache Ant, Eclipse, Git, Jenkins, YourKit_
+> _Java, Groovy, XQuery, XSLT (Extensible Stylesheet Language Transformations), SPARQL (SPARQL Protocol and RDF Query Language), Restful Webservices (Representational state transfer), Restlet, XML (Extensible Markup Language), JDOM (Java Document Object Model ), XPath (XML Path Language), SAX (Simple API for XML), Google Guice, XForms, RelaxNG, WADL (Web Application Description Language), L34T (Literal-Result-Element-As-Stylesheet), HTML (Hypertext Markup Language ), HTTP (Hypertext Transfer Protocol), TestNG, Mockito,SVN (Apache Subversion), Apache Ant, Eclipse, Git, Jenkins, YourKit, OOP, Object Oriented Programming, Open Source, Unit Test, Object Oriented Design,Support Documentation,Technical Documentation, Middleware_
 
 **Senior Software Engineer** April 2006 – May 2007 \
 **Saratoga Systems**, Campbell, California
@@ -78,7 +78,7 @@ XSLT (Extensible Stylesheet Language Transformations), JUnit, Transactions_
 * Made client-side user controls those facilitate some third-party chart, grid, diagramming controls. All controls used ADO.NET tables as the data source.
 * Wrote scripts that use NAnt build tool for Continuous Integration, Unit Testing, generating setup, creating documentation, etc. Generated installation programs and deployment procedures for several products using InstallShield or Visual Studio deployment tools.
 
-> _Network monitoring, distributed, client-server , C/C++,C#, MFC, XSLT, (Extensible Stylesheet Language Transformations), Visual Studio, DCOM (Distributed Component Object Model),TCP (Transmission Control Protocol), UDP (User Datagram Protocol), ADO (ActiveX Data Objects).NET, CI (continuous integration), InstallShield_
+> _Network monitoring, distributed, client-server , C/C++,C#, MFC, XSLT, (Extensible Stylesheet Language Transformations), Visual Studio, DCOM (Distributed Component Object Model),TCP (Transmission Control Protocol), UDP (User Datagram Protocol), ADO (ActiveX Data Objects).NET, CI (continuous integration), InstallShield, Protocols_
 
 **Programmer/Analyst** June 1999 – June 2000 \
 **Horizon Computer Consulting**, Des Moines, Iowa
