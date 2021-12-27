@@ -31,8 +31,9 @@ T-Mobile Social & Messaging Product Development (SMPD):
 * Mentored new developers on the team to make them contributing members.
 * Participated in cross‐organization efforts to improve the overall latency of the services.
 * Migrated over 150 microservices from Mesos to Kubernetes.
+* Designed, developed, debugged, and deployed conversational experiences and solutions using the RASA framework. Integrated RASA-powered chatbots with backend APIs.
 
-> _Java, Spring Boot, Microservices, Spring Cloud, Spring Data JPA, AWS, KMS, S3, DynamoDB, NoSQL, RDS, EC2, SQS, Apache Kafka, Kafka Streams, Docker, Jenkins, Maven, GIT, JSON, Chatbots, Restful API,Agile Development, Architecture, Containerization, Design Patterns, DevOps, Disaster Recovery, Distributed Systems, IAAS, Infrastructure as a Service, Load Balancing, Mentoring, Migration, SAAS, Redis, Elasticache, Terraform,Infrastructure as Code, Oauth, Distributed Architecture, Middleware_
+> _Java, Spring Boot, Microservices, Spring Cloud, Spring Data JPA, AWS, KMS, S3, DynamoDB, NoSQL, RDS, EC2, SQS, Apache Kafka, Kafka Streams, Docker, Jenkins, Maven, GIT, JSON, Chatbots, Restful API,Agile Development, Architecture, Containerization, Design Patterns, DevOps, Disaster Recovery, Distributed Systems, IAAS, Infrastructure as a Service, Load Balancing, Mentoring, Migration, SAAS, Redis, Elasticache, Terraform,Infrastructure as Code, Oauth, Distributed Architecture, Middleware,Rasa, chatbots, conversational AI, Python_
 
 
 **Associate Staff Software Developer** March 2015 - January 2018 \
