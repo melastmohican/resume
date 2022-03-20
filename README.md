@@ -20,7 +20,11 @@ Principally involved with driving code direction, helping solve problems on the 
 A job that will make me better. Whether through challenging assignments, educational opportunities, demanding excellence, or informal mentors.
 
 ## EXPERIENCE
-**Lead Software Developer** February 2018 - Present \
+**Principal Software Engineer** March 2022 - Present \
+**Veeva Systems**, Pleasanton, California \
+Veeva Nitro is a data science and analytics platform that connects data sources, technology, and business consulting services to provide actionable insights for agile decisions.
+
+**Senior Software Developer** January 2018 - March 2022 \
 **Logic20/20**, Seattle, Washington \
 T-Mobile Social & Messaging Product Development (SMPD):
 
