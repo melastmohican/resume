@@ -23,6 +23,7 @@ A job that will make me better. Whether through challenging assignments, educati
 **Principal Software Engineer** March 2022 - Present \
 **Veeva Systems**, Pleasanton, California \
 Veeva Nitro is a data science and analytics platform that connects data sources, technology, and business consulting services to provide actionable insights for agile decisions.
+> _Java, Spring Boot, Spring Cloud Stream, Spring Data, Hibernate, Querydsl, Flyway, Spring WebFlux, Spring Reactor, MySQL, AWS, KMS, S3, RDS, EC2, SQSAmazon Redshift, Amazon EMR, Python, Apache Superset, Apache Parquet_
 
 **Senior Software Developer** January 2018 - March 2022 \
 **Logic20/20**, Seattle, Washington \
