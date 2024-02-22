@@ -22,8 +22,15 @@ A job that will make me better. Whether through challenging assignments, educati
 ## EXPERIENCE
 **Principal Software Engineer** March 2022 - Present \
 **Veeva Systems**, Pleasanton, California \
-Veeva Nitro is a data science and analytics platform that connects data sources, technology, and business consulting services to provide actionable insights for agile decisions.
-> _Java, Spring Boot, Spring Cloud Stream, Spring Data, Hibernate, Querydsl, Flyway, Spring WebFlux, Spring Reactor, MySQL, AWS, KMS, S3, RDS, EC2, SQSAmazon Redshift, Amazon EMR, Python, Apache Superset, Apache Parquet_
+Veeva Nitro data science and analytics platform:
+
+* Collaborated with cross-functional teams including Product Management and Development to contribute to technical design discussions, offering solutions for complex problems in enterprise SaaS cloud applications.
+* Actively mentored junior and mid-level engineers, fostering a culture of continuous learning and improvement within the team.
+* Successfully broke down intricate problems into actionable solutions, facilitating faster resolutions and improved development efficiency.
+* Provided guidance on industry best practices, actively evangelizing coding standards to enhance the overall code quality.
+* Served as a designated liaison responsible for handling and addressing security-related matters. Playing a key role in the team's incident response process by being the initial contact person when a security incident occurs. Coordinating efforts related to identifying, assessing, and addressing security vulnerabilities in the team's systems or applications.
+* Identified and prioritized technical debt, systematically addressing issues to enhance codebase efficiency. Orchestrated meticulous planning for platform and framework migrations, ensuring seamless transitions with minimal user impact.
+> _Java, Spring Boot, Spring Cloud Stream, Spring Data, Hibernate, Querydsl, Flyway, Spring WebFlux, MySQL, AWS, KMS, S3, RDS, EC2, SQS, Amazon Redshift, Amazon EMR, Python, Apache Superset, Apache Parquet_
 
 **Senior Software Developer** January 2018 - March 2022 \
 **Logic20/20**, Seattle, Washington \
