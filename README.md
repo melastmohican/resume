@@ -3,7 +3,7 @@
 <tr>
 <td><h2><bold>MARIUSZ JURGIELEWICZ</bold></h2></td>
 <td><img src="linkedinqr.jpg" alt="LinkedIn"></td>
-<td><h2><a href="mailto:mariusz.jurgielewicz@comcast.net">mariusz.jurgielewicz@comcast.net</a><h2></td>
+<td><h2><a href="mailto:mariusz.jurgielewicz@me.com">mariusz.jurgielewicz@me.com</a><h2></td>
 </tr>
 </body>
 </table>
