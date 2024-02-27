@@ -28,7 +28,7 @@ Nitro data science and analytics platform:
 * Provided guidance on industry best practices, actively evangelizing coding standards to enhance the overall code quality.
 * Served as a designated liaison responsible for handling and addressing security-related matters. Playing a key role in the team's incident response process by being the initial contact person when a security incident occurs. Coordinating efforts related to identifying, assessing, and addressing security vulnerabilities in the team's systems or applications.
 * Identified and prioritized technical debt, systematically addressing issues to enhance codebase efficiency. Orchestrated meticulous planning for platform and framework migrations, ensuring seamless transitions with minimal user impact.
-> _Java, Spring Boot, Spring Cloud Stream, Spring Data, Hibernate, Querydsl, Flyway, Spring WebFlux, MySQL, AWS, KMS, S3, RDS, EC2, SQS, Amazon Redshift, Python, Apache Superset, Apache Parquet_
+> _Java, Spring Boot, Spring Cloud Stream, Spring Data, Hibernate, Querydsl, Flyway, Spring WebFlux, MySQL, AWS, KMS, S3, RDS, EC2, SQS, Amazon Redshift, Python, Apache Superset, Apache Parquet, SAST, SCA, DAST_
 
 **Senior Software Developer** January 2018 - March 2022 \
 **Logic20/20**, Seattle, Washington \
