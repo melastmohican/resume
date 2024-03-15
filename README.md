@@ -19,7 +19,7 @@ Principally involved with driving code direction, helping solve problems on the 
 A job that will make me better. Whether through challenging assignments, educational opportunities, demanding excellence, or informal mentors.
 
 ## EXPERIENCE
-**Principal Software Engineer** March 2022 - Present \
+**Principal Software Engineer** (remote) March 2022 - Present \
 **Veeva Systems**, Pleasanton, California \
 Nitro data science and analytics platform:
 * Collaborated with cross-functional teams including Product Management and Development to contribute to technical design discussions, offering solutions for complex problems in enterprise SaaS cloud applications.
