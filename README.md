@@ -10,60 +10,52 @@
 
 ## SUMMARY
 ![](resume_tagcloud.png)
-Principally involved with driving code direction, helping solve problems on the systems side, building out a roadmap to execute on it, rallying the team around this execution plan & executing on the plan itself.
-* Work collaboratively with cross-functional teams to design and implement new features
-* Drive engineering and operational excellence across backend teams
-* Collaborate with other engineering teams to improve processes, surface common pain points, develop solutions and evangelize best practices
-* Support, mentor, and help other engineers in the team
-
-A job that will make me better. Whether through challenging assignments, educational opportunities, demanding excellence, or informal mentors.
+Experienced in steering code direction, resolving system issues, strategizing roadmaps, and leading team execution. Skilled in collaborating with diverse teams to devise and implement features, enhance backend operations, optimize processes, address challenges, and promote industry best practices. Committed to supporting and mentoring fellow engineers for collective success.
 
 ## EXPERIENCE
-**Principal Software Engineer** (remote) March 2022 - Present \
-**Veeva Systems**, Pleasanton, California \
-Nitro data science and analytics platform:
-* Collaborated with cross-functional teams including Product Management and Development to contribute to technical design discussions, offering solutions for complex problems in enterprise SaaS cloud applications.
-* Actively mentored junior and mid-level engineers, fostering a culture of continuous learning and improvement within the team.
-* Successfully broke down intricate problems into actionable solutions, facilitating faster resolutions and improved development efficiency.
-* Provided guidance on industry best practices, actively evangelizing coding standards to enhance the overall code quality.
-* Served as a designated liaison responsible for handling and addressing security-related matters. Playing a key role in the team's incident response process by being the initial contact person when a security incident occurs. Coordinating efforts related to identifying, assessing, and addressing security vulnerabilities in the team's systems or applications.
-* Identified and prioritized technical debt, systematically addressing issues to enhance codebase efficiency. Orchestrated meticulous planning for platform and framework migrations, ensuring seamless transitions with minimal user impact.
-> _Java, Spring Boot, Spring Cloud Stream, Spring Data, Hibernate, Querydsl, Flyway, Spring WebFlux, MySQL, AWS, KMS, S3, RDS, EC2, SQS, Amazon Redshift, Python, Apache Superset, Apache Parquet, SAST, SCA, DAST_
+**Principal Software Engineer**  March 2022 - Present
+**Veeva Systems**, Pleasanton, California
+Nitro Data Science and Analytics Platform:
+* Leveraged strong technical expertise to collaborate cross-functionally with Product Management and Development teams. Contributed to technical design discussions by proposing and implementing innovative solutions to address concurrency issues that emerged under high load in our enterprise SaaS cloud application. This resulted in a significant improvement in application stability and a significant reduction in processing times.
+* Championed a culture of continuous learning and team improvement by mentoring junior and mid-level engineers. This resulted in a 25% reduction in bug occurrence in junior engineer's projects. My mentorship focused on areas like design patterns, and unit testing best practices.
+* Advocated industry best practices, promoting coding standards to elevate code quality across projects.
+* Acted as a designated liaison for managing and resolving security-related matters, leading incident response efforts, and coordinating vulnerability assessments and resolutions.
+* Identified and prioritized technical debt, systematically improving codebase efficiency and orchestrating smooth platform and framework migrations with minimal user disruption.
+> _Java, Spring Boot, Spring Cloud Stream, Spring Data, Hibernate, Querydsl, Flyway, Spring WebFlux, MySQL, AWS (KMS, S3, RDS, EC2, SQS, Amazon Redshift), Python, Apache Superset, Apache Parquet, SAST, SCA, DAST_
 
-**Senior Software Developer** January 2018 - March 2022 \
-**Logic20/20**, Seattle, Washington \
+**Lead Software Developer** February 2018 - March 2022
+**Logic20/20,** Seattle, Washington
 T-Mobile Social & Messaging Product Development (SMPD):
-* Constructed micro-service infrastructure for event broker bot
-* Authored and consumed various Restful APIs
-* Collaborated with business partners, QA, and other teams on delivering high performance message driven applications.
-* Worked on designs and research for new features we would be able to deliver in the future.
-* Mentored new developers on the team to make them contributing members.
-* Participated in cross‐organization efforts to improve the overall latency of the services.
-* Migrated over 150 microservices from Mesos to Kubernetes.
-* Designed, developed, debugged, and deployed conversational experiences and solutions using the RASA framework. Integrated RASA-powered chatbots with backend APIs.
-> _Java, Spring Boot, Microservices, Spring Cloud, Spring Data JPA, AWS, KMS, S3, DynamoDB, NoSQL, RDS, EC2, SQS, Apache Kafka, Kafka Streams, Docker, Jenkins, Maven, GIT, JSON, Chatbots, Restful API,Agile Development, Architecture, Containerization, Design Patterns, DevOps, Disaster Recovery, Distributed Systems, IAAS, Infrastructure as a Service, Load Balancing, Mentoring, Migration, SAAS, Redis, Elasticache, Terraform,Infrastructure as Code, Oauth, Distributed Architecture, Middleware,Rasa, chatbots, conversational AI, Python_
+* Developed micro-service infrastructure for event broker bot and integrated various Restful APIs.
+* Collaborated with business partners, QA, and cross-functional teams to deliver high-performance message-driven applications.
+* Conducted design and research activities to identify and plan future feature enhancements.
+* Successfully mentored new team members, ensuring a smooth integration into the team. This resulted in all mentees achieving full productivity within the first month of joining the team.
+* Reduced service latency by identifying opportunities to optimize communication patterns. This included eliminating multiple, nested REST calls and replacing them with asynchronous messaging, resulting in a significant improvement in overall system efficiency.
+* Led the migration of over 150 microservices from Mesos to Kubernetes.
+* Designed, developed, debugged, and deployed conversational experiences and solutions using the RASA framework, integrating chatbots with backend APIs.
+> _Java, Spring Boot, Microservices, Spring Cloud, Spring Data JPA, AWS (KMS, S3, DynamoDB, RDS, EC2, SQS), Apache Kafka, Kafka Streams, Docker, Jenkins, Maven, GIT, JSON, Restful API, Agile Development, Architecture, Containerization, Design Patterns, DevOps, Disaster Recovery, Distributed Systems, IAAS, Infrastructure as a Service, Load Balancing, Mentoring, Migration, SAAS, Redis, Elasticache, Terraform, Infrastructure as Code, OAuth, Middleware, Rasa, Python, chatbots, conversational AI_
 
-**Associate Staff Software Developer** March 2015 - January 2018 \
+**Associate Staff Software Developer** March 2015 - January 2018
 **QIAGEN**, Redwood City, California
-* Prepared Java EE web applications enhancements requested by customers and finalized them with a production quality
-* Implemented status reporting functionality in existing web and command line utilities to enhance multi-threaded processes visibility.
-* Re-architected common application domain objects, services, and tools into Grails plugin to improve code reusability. Kept plugin synchronized with multiple versions of Grails platform.
-* Performed continuous refinement and improvement of existing CI framework.
-* Migrated multiple projects to the newer version of Grails.
-* Increased performance, extensibility, manageability, and testability of the code.
-* Integrated front-end technologies, servlet web frameworks, Hibernate and Spring Framework, and an Oracle database.
-* Collaborated with geographically distributed teams on multiple development projects.
-> _OKBC (Open Knowledge Base Connectivity), Java, Servlet, Hibernate, Groovy, Grails, GORM (Grails Object-Relational Mapping), HTTP (Hypertext Transfer Protocol), Webservices, Convention over configuration, MVC (Model–view–controller), Oracle PL/SQL, Maven, SVN (Apache Subversion), GIT, jQuery, Google Apps Script, HQL (Hibernate Query Language), JSON (JavaScript Object Notation), JSP (Java Server Pages), GSP (Groovy Server Pages), JSF( Java Server Faces), YourKit, OpenBEL (Biological Expression Language), Spring Batch, Jenkins, CI (continuous integration), H2, JDBC (Java Database Connectivity), Spring Framework,Google Apps Script, 
-XSLT (Extensible Stylesheet Language Transformations), JUnit, Transactions, Data Driven, _
+* Developed Java EE web application enhancements as per customer requests, ensuring production-ready quality.
+* Implemented status reporting features in web and command line utilities to enhance visibility into multi-threaded processes.
+* Re-architected common application domain objects, services, and tools into the Grails plugin to enhance code reusability, maintaining synchronization with various Grails platform versions.
+* Conducted ongoing refinement and enhancement of the existing Continuous Integration (CI) framework.
+* Successfully migrated multiple projects to newer versions of the Grails platform.
+* Improved code performance, extensibility, manageability, and testability.
+* Integrated front-end technologies, servlet web frameworks, Hibernate, Spring Framework, and Oracle databases.
+* Collaborated with geographically distributed teams on various development initiatives.
+> _Java, Servlet, Hibernate, Groovy, Grails, GORM, HTTP, Webservices, MVC, Oracle PL/SQL, Maven, SVN, GIT, jQuery, Google Apps Script, HQL, JSON, JSP, GSP, JSF, YourKit, OpenBEL, Spring Batch, Jenkins, CI, H2, JDBC, Spring Framework, XSLT, JUnit, Transactions, Data Driven_
 
-**Senior Software Engineer** July 2007 – March 2015 \
+**Senior Software Engineer** July 2007 – March 2015
 **Xerox Content Management**, Palo Alto, California
-* Built high quality, highly reliable, scalable Restful web services (API) for Enterprise Content Management server platform using Java and open source software. 
-* Engineered extensible high-speed multithreaded document intake module that allowed up to 100 docs/s upload rate.
-* Provided technical guidance and mentored less experienced team members.
-* Used knowledge of the platform to resolve development-related questions across a variety of supported development platforms using many different development interfaces. 
-* Trained software developers how to use various technologies through code samples, developer guides, quick starts, tutorials, API reference, quick references, online help, web articles. 
-> _Java, Groovy, XQuery, XSLT (Extensible Stylesheet Language Transformations), SPARQL (SPARQL Protocol and RDF Query Language), Restful Webservices (Representational state transfer), Restlet, XML (Extensible Markup Language), JDOM (Java Document Object Model ), XPath (XML Path Language), SAX (Simple API for XML), Google Guice, XForms, RelaxNG, WADL (Web Application Description Language), L34T (Literal-Result-Element-As-Stylesheet), HTML (Hypertext Markup Language ), HTTP (Hypertext Transfer Protocol), TestNG, Mockito,SVN (Apache Subversion), Apache Ant, Eclipse, Git, Jenkins, YourKit, OOP, Object Oriented Programming, Open Source, Unit Test, Object Oriented Design,Support Documentation,Technical Documentation, Middleware_
+* Developed high-quality, scalable Restful web services (API) for the Enterprise Content Management server platform using Java and open-source software.
+* Engineered a flexible, high-speed multi-threaded document intake module enabling upload rates of up to 100 docs/s.
+* Provided technical guidance and mentorship to junior team members.
+* Utilized deep platform knowledge to address development queries across various supported platforms and interfaces.
+* Conducted training sessions for software developers on various technologies through code samples, guides, tutorials, and online resources.
+> _Java, Groovy, XQuery, XSLT, SPARQL, Restful Webservices, Restlet, XML, JDOM, XPath, SAX, Google Guice, XForms, RelaxNG, WADL, L34T, HTML, HTTP, TestNG, Mockito, SVN, Apache Ant, Eclipse, Git, Jenkins, YourKit, Object-Oriented Programming (OOP), Open Source, Unit Testing, Object-Oriented Design (OOD), Support Documentation, Technical Documentation, Middleware_
+
 
 **Senior Software Engineer** April 2006 – May 2007 \
 **Saratoga Systems**, Campbell, California
