@@ -21,7 +21,7 @@ Nitro Data Science and Analytics Platform:
 * Advocated industry best practices, promoting coding standards to elevate code quality across projects.
 * Acted as a designated liaison for managing and resolving security-related matters, leading incident response efforts, and coordinating vulnerability assessments and resolutions.
 * Identified and prioritized technical debt, systematically improving codebase efficiency and orchestrating smooth platform and framework migrations with minimal user disruption.
-> _Java, Spring Boot, Spring Cloud Stream, Spring Data, Hibernate, Querydsl, Flyway, Spring WebFlux, MySQL, AWS (KMS, S3, RDS, EC2, SQS, Amazon Redshift), Python, Apache Superset, Apache Parquet, SAST, SCA, DAST_
+> _Java, Spring Boot, Spring Cloud Stream, Spring Data, Hibernate, Querydsl, Flyway, Spring WebFlux, MySQL, AWS (KMS, S3, RDS, EC2, SQS, Amazon Redshift), Python, Apache Superset, Apache Parquet, ETL, Infrastructure as code (IaC), Elastic Stack (ELK), SAST, SCA, DAST, OpenRewrite, OWASP, Code Refactoring, Code Review, Spring Webflux, Micrometer, Prometheus, Spring MVC, Spring Security, JDBC, Apache Druid, Product Requirements, Problem Solving, Object Oriented Design, Debugging_
 
 **Lead Software Developer** February 2018 - March 2022
 **Logic20/20,** Seattle, Washington
@@ -33,7 +33,7 @@ T-Mobile Social & Messaging Product Development (SMPD):
 * Reduced service latency by identifying opportunities to optimize communication patterns. This included eliminating multiple, nested REST calls and replacing them with asynchronous messaging, resulting in a significant improvement in overall system efficiency.
 * Led the migration of over 150 microservices from Mesos to Kubernetes.
 * Designed, developed, debugged, and deployed conversational experiences and solutions using the RASA framework, integrating chatbots with backend APIs.
-> _Java, Spring Boot, Microservices, Spring Cloud, Spring Data JPA, AWS (KMS, S3, DynamoDB, RDS, EC2, SQS), Apache Kafka, Kafka Streams, Docker, Jenkins, Maven, GIT, JSON, Restful API, Agile Development, Architecture, Containerization, Design Patterns, DevOps, Disaster Recovery, Distributed Systems, IAAS, Infrastructure as a Service, Load Balancing, Mentoring, Migration, SAAS, Redis, Elasticache, Terraform, Infrastructure as Code, OAuth, Middleware, Rasa, Python, chatbots, conversational AI_
+> _Java, Spring Boot, Microservices, Spring Cloud, Spring Data JPA, AWS (KMS, S3, DynamoDB, RDS, EC2, SQS), Apache Kafka, Kafka Streams, Docker, Jenkins, Maven, GIT, JSON, Restful API, Agile Development, Architecture, Containerization, Design Patterns, DevOps, Disaster Recovery, Distributed Systems, IAAS, Infrastructure as a Service, Load Balancing, Mentoring, Migration, SAAS, Redis, Elasticache, Terraform, Infrastructure as Code, OAuth, Middleware, Rasa, Python, chatbots, conversational AI, Splunk, Scrum, Prometheus, JDBC, Web Application Security, Product Requirements, Problem Solving, Spring MVC, Debugging, Agile Methodologies_
 
 **Associate Staff Software Developer** March 2015 - January 2018
 **QIAGEN**, Redwood City, California
@@ -45,7 +45,7 @@ T-Mobile Social & Messaging Product Development (SMPD):
 * Improved code performance, extensibility, manageability, and testability.
 * Integrated front-end technologies, servlet web frameworks, Hibernate, Spring Framework, and Oracle databases.
 * Collaborated with geographically distributed teams on various development initiatives.
-> _Java, Servlet, Hibernate, Groovy, Grails, GORM, HTTP, Webservices, MVC, Oracle PL/SQL, Maven, SVN, GIT, jQuery, Google Apps Script, HQL, JSON, JSP, GSP, JSF, YourKit, OpenBEL, Spring Batch, Jenkins, CI, H2, JDBC, Spring Framework, XSLT, JUnit, Transactions, Data Driven_
+> _Java, Servlet, Hibernate, Groovy, Grails, GORM, HTTP, Webservices, MVC, Oracle PL/SQL, Maven, SVN, GIT, jQuery, Google Apps Script, HQL, JSON, JSP, GSP, JSF, YourKit, OpenBEL, Spring Batch, Jenkins, Continuous Integration, H2, JDBC, Spring Framework, XSLT, JUnit, Transactions, Data Driven, J2EE Web Services, JDBC, Product Requirements, Problem Solving, Object Oriented Design, Debugging_
 
 **Senior Software Engineer** July 2007 – March 2015
 **Xerox Content Management**, Palo Alto, California
@@ -54,7 +54,7 @@ T-Mobile Social & Messaging Product Development (SMPD):
 * Provided technical guidance and mentorship to junior team members.
 * Utilized deep platform knowledge to address development queries across various supported platforms and interfaces.
 * Conducted training sessions for software developers on various technologies through code samples, guides, tutorials, and online resources.
-> _Java, Groovy, XQuery, XSLT, SPARQL, Restful Webservices, Restlet, XML, JDOM, XPath, SAX, Google Guice, XForms, RelaxNG, WADL, L34T, HTML, HTTP, TestNG, Mockito, SVN, Apache Ant, Eclipse, Git, Jenkins, YourKit, Object-Oriented Programming (OOP), Open Source, Unit Testing, Object-Oriented Design (OOD), Support Documentation, Technical Documentation, Middleware_
+> _ava, Groovy, XQuery, XSLT, SPARQL, Restful Webservices, Restlet, XML, JDOM, XPath, SAX, Google Guice, XForms, RelaxNG, WADL, L34T, HTML, HTTP, TestNG, Mockito, SVN, Apache Ant, Eclipse, Git, Jenkins, YourKit, Object-Oriented Programming (OOP), Open Source, Unit Testing, Object-Oriented Design (OOD), Support Documentation, Technical Documentation, Middleware, J2EE Web Services, JDBC, PostgreSQL, Debugging_
 
 
 **Senior Software Engineer** April 2006 – May 2007 \
