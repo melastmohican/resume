@@ -10,21 +10,21 @@
 
 ## SUMMARY
 ![](resume_tagcloud.png)
-Experienced in steering code direction, resolving system issues, strategizing roadmaps, and leading team execution. Skilled in collaborating with diverse teams to devise and implement features, enhance backend operations, optimize processes, address challenges, and promote industry best practices. Committed to supporting and mentoring fellow engineers for collective success.
+With over 25 years of experience, I'm a seasoned Software Engineering Leader passionate about the entire software development life cycle (SDLC). I take pride in crafting high-quality, production-ready solutions using Java, Spring Boot, and databases, and a keen understanding of web applications and microservices.  My leadership extends beyond technical prowess; I foster a collaborative environment, guide teams through complex challenges, and champion best practices to achieve collective success.
 
 ## EXPERIENCE
-**Principal Software Engineer**  March 2022 - Present
-**Veeva Systems**, Pleasanton, California
+**Principal Software Engineer** March 2022 - Present
+**Veeva Systems**, Pleasanton, California (Remote: Bellevue, WA)
 Nitro Data Science and Analytics Platform:
 * Leveraged strong technical expertise to collaborate cross-functionally with Product Management and Development teams. Contributed to technical design discussions by proposing and implementing innovative solutions to address concurrency issues that emerged under high load in our enterprise SaaS cloud application. This resulted in a significant improvement in application stability and a significant reduction in processing times.
 * Championed a culture of continuous learning and team improvement by mentoring junior and mid-level engineers. This resulted in a 25% reduction in bug occurrence in junior engineer's projects. My mentorship focused on areas like design patterns, and unit testing best practices.
 * Advocated industry best practices, promoting coding standards to elevate code quality across projects.
 * Acted as a designated liaison for managing and resolving security-related matters, leading incident response efforts, and coordinating vulnerability assessments and resolutions.
 * Identified and prioritized technical debt, systematically improving codebase efficiency and orchestrating smooth platform and framework migrations with minimal user disruption.
-> _Java, Spring Boot, Spring Cloud Stream, Spring Data, Hibernate, Querydsl, Flyway, Spring WebFlux, MySQL, AWS (KMS, S3, RDS, EC2, SQS, Amazon Redshift), Python, Apache Superset, Apache Parquet, ETL, Infrastructure as code (IaC), Elastic Stack (ELK), SAST, SCA, DAST, OpenRewrite, OWASP, Code Refactoring, Code Review, Spring Webflux, Micrometer, Prometheus, Spring MVC, Spring Security, JDBC, Apache Druid, Product Requirements, Problem Solving, Object Oriented Design, Debugging_
+> _Java, Spring Boot, Spring Cloud Stream, Spring Data, Hibernate, Querydsl, Flyway, Spring WebFlux, MySQL, AWS (KMS, S3, RDS, EC2, SQS, Amazon Redshift), Python, Apache Superset, Apache Parquet, SAST, SCA, DAST_
 
 **Lead Software Developer** February 2018 - March 2022
-**Logic20/20,** Seattle, Washington
+**Logic20/20**, Seattle, Washington
 T-Mobile Social & Messaging Product Development (SMPD):
 * Developed micro-service infrastructure for event broker bot and integrated various Restful APIs.
 * Collaborated with business partners, QA, and cross-functional teams to deliver high-performance message-driven applications.
@@ -46,7 +46,6 @@ T-Mobile Social & Messaging Product Development (SMPD):
 * Integrated front-end technologies, servlet web frameworks, Hibernate, Spring Framework, and Oracle databases.
 * Collaborated with geographically distributed teams on various development initiatives.
 > _Java, Servlet, Hibernate, Groovy, Grails, GORM, HTTP, Webservices, MVC, Oracle PL/SQL, Maven, SVN, GIT, jQuery, Google Apps Script, HQL, JSON, JSP, GSP, JSF, YourKit, OpenBEL, Spring Batch, Jenkins, Continuous Integration, H2, JDBC, Spring Framework, XSLT, JUnit, Transactions, Data Driven, J2EE Web Services, JDBC, Product Requirements, Problem Solving, Object Oriented Design, Debugging_
-
 **Senior Software Engineer** July 2007 – March 2015
 **Xerox Content Management**, Palo Alto, California
 * Developed high-quality, scalable Restful web services (API) for the Enterprise Content Management server platform using Java and open-source software.
@@ -54,8 +53,7 @@ T-Mobile Social & Messaging Product Development (SMPD):
 * Provided technical guidance and mentorship to junior team members.
 * Utilized deep platform knowledge to address development queries across various supported platforms and interfaces.
 * Conducted training sessions for software developers on various technologies through code samples, guides, tutorials, and online resources.
-> _ava, Groovy, XQuery, XSLT, SPARQL, Restful Webservices, Restlet, XML, JDOM, XPath, SAX, Google Guice, XForms, RelaxNG, WADL, L34T, HTML, HTTP, TestNG, Mockito, SVN, Apache Ant, Eclipse, Git, Jenkins, YourKit, Object-Oriented Programming (OOP), Open Source, Unit Testing, Object-Oriented Design (OOD), Support Documentation, Technical Documentation, Middleware, J2EE Web Services, JDBC, PostgreSQL, Debugging_
-
+> _Java, Groovy, XQuery, XSLT, SPARQL, Restful Webservices, Restlet, XML, JDOM, XPath, SAX, Google Guice, XForms, RelaxNG, WADL, L34T, HTML, HTTP, TestNG, Mockito, SVN, Apache Ant, Eclipse, Git, Jenkins, YourKit, Object-Oriented Programming (OOP), Open Source, Unit Testing, Object-Oriented Design (OOD), Support Documentation, Technical Documentation, Middleware, J2EE Web Services, JDBC, PostgreSQL, Debugging_
 
 **Senior Software Engineer** April 2006 – May 2007 \
 **Saratoga Systems**, Campbell, California
