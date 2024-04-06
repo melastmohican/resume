@@ -13,7 +13,7 @@
 With over 25 years of experience, I'm a seasoned Software Engineering Leader passionate about the entire software development life cycle (SDLC). I take pride in crafting high-quality, production-ready solutions using Java, Spring Boot, and databases, and a keen understanding of web applications and microservices.  My leadership extends beyond technical prowess; I foster a collaborative environment, guide teams through complex challenges, and champion best practices to achieve collective success.
 
 ## EXPERIENCE
-**Principal Software Engineer** March 2022 - Present
+**Principal Software Engineer** March 2022 - Present \
 **Veeva Systems**, Pleasanton, California (Remote: Bellevue, WA)
 Nitro Data Science and Analytics Platform:
 * Leveraged strong technical expertise to collaborate cross-functionally with Product Management and Development teams. Contributed to technical design discussions by proposing and implementing innovative solutions to address concurrency issues that emerged under high load in our enterprise SaaS cloud application. This resulted in a significant improvement in application stability and a significant reduction in processing times.
@@ -23,7 +23,7 @@ Nitro Data Science and Analytics Platform:
 * Identified and prioritized technical debt, systematically improving codebase efficiency and orchestrating smooth platform and framework migrations with minimal user disruption.
 > _Java, Spring Boot, Spring Cloud Stream, Spring Data, Hibernate, Querydsl, Flyway, Spring WebFlux, MySQL, AWS (KMS, S3, RDS, EC2, SQS, Amazon Redshift), Python, Apache Superset, Apache Parquet, SAST, SCA, DAST_
 
-**Lead Software Developer** February 2018 - March 2022
+**Lead Software Developer** February 2018 - March 2022 \
 **Logic20/20**, Seattle, Washington
 T-Mobile Social & Messaging Product Development (SMPD):
 * Developed micro-service infrastructure for event broker bot and integrated various Restful APIs.
@@ -35,7 +35,7 @@ T-Mobile Social & Messaging Product Development (SMPD):
 * Designed, developed, debugged, and deployed conversational experiences and solutions using the RASA framework, integrating chatbots with backend APIs.
 > _Java, Spring Boot, Microservices, Spring Cloud, Spring Data JPA, AWS (KMS, S3, DynamoDB, RDS, EC2, SQS), Apache Kafka, Kafka Streams, Docker, Jenkins, Maven, GIT, JSON, Restful API, Agile Development, Architecture, Containerization, Design Patterns, DevOps, Disaster Recovery, Distributed Systems, IAAS, Infrastructure as a Service, Load Balancing, Mentoring, Migration, SAAS, Redis, Elasticache, Terraform, Infrastructure as Code, OAuth, Middleware, Rasa, Python, chatbots, conversational AI, Splunk, Scrum, Prometheus, JDBC, Web Application Security, Product Requirements, Problem Solving, Spring MVC, Debugging, Agile Methodologies_
 
-**Associate Staff Software Developer** March 2015 - January 2018
+**Associate Staff Software Developer** March 2015 - January 2018 \
 **QIAGEN**, Redwood City, California
 * Developed Java EE web application enhancements as per customer requests, ensuring production-ready quality.
 * Implemented status reporting features in web and command line utilities to enhance visibility into multi-threaded processes.
@@ -46,7 +46,7 @@ T-Mobile Social & Messaging Product Development (SMPD):
 * Integrated front-end technologies, servlet web frameworks, Hibernate, Spring Framework, and Oracle databases.
 * Collaborated with geographically distributed teams on various development initiatives.
 > _Java, Servlet, Hibernate, Groovy, Grails, GORM, HTTP, Webservices, MVC, Oracle PL/SQL, Maven, SVN, GIT, jQuery, Google Apps Script, HQL, JSON, JSP, GSP, JSF, YourKit, OpenBEL, Spring Batch, Jenkins, Continuous Integration, H2, JDBC, Spring Framework, XSLT, JUnit, Transactions, Data Driven, J2EE Web Services, JDBC, Product Requirements, Problem Solving, Object Oriented Design, Debugging_
-**Senior Software Engineer** July 2007 – March 2015
+**Senior Software Engineer** July 2007 – March 2015 \
 **Xerox Content Management**, Palo Alto, California
 * Developed high-quality, scalable Restful web services (API) for the Enterprise Content Management server platform using Java and open-source software.
 * Engineered a flexible, high-speed multi-threaded document intake module enabling upload rates of up to 100 docs/s.
