@@ -53,6 +53,7 @@ T-Mobile Social & Messaging Product Development (SMPD):* Developed Spring Boot m
 * Provided technical guidance and mentorship to junior team members.
 * Utilized deep platform knowledge to address development queries across various supported platforms and interfaces.
 * Conducted training sessions for software developers on various technologies through code samples, guides, tutorials, and online resources.
+* Supported the Docushare API developer community with troubleshooting, code samples, client libraries, and documentation. 
 > _Java, Groovy, XQuery, XSLT, SPARQL, Restful Webservices, Restlet, XML, JDOM, XPath, SAX, Google Guice, XForms, RelaxNG, WADL, L34T, HTML, HTTP, TestNG, Mockito, SVN, Apache Ant, Eclipse, Git, Jenkins, YourKit, Object-Oriented Programming (OOP), Open Source, Unit Testing, Object-Oriented Design (OOD), Support Documentation, Technical Documentation, Middleware, J2EE Web Services, JDBC, PostgreSQL, Debugging, Problem-solving_
 
 **Senior Software Engineer** April 2006 – May 2007 \
