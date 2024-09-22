@@ -24,7 +24,7 @@ Nitro Data Science and Analytics Platform:
 * Identified and prioritized technical debt. I championed codebase modernization efforts, systematically improving efficiency and orchestrating smooth platform and framework migrations with minimal user disruption (0 hours of downtime). This included utilizing tools like OpenRewrite to automate code refactoring during migrations, ensuring consistent and efficient code updates.
 > _Java, Spring Boot, Spring Cloud Stream, Spring Data, Hibernate, Querydsl, Flyway, Spring WebFlux, MySQL, AWS (KMS, S3, RDS, EC2, SQS, Amazon Redshift), Python, Apache Superset, Apache Parquet, ETL, Infrastructure as code (IaC), Elastic Stack (ELK), SAST, SCA, DAST, OpenRewrite, OWASP, Code Refactoring, Code Review, Spring Webflux, Micrometer, Prometheus, Spring MVC, Spring Security, JDBC, Apache Druid, Product Requirements, Problem Solving, Software architecture, Cloud computing, Object Oriented Design, Debugging_
 
-**Lead Software Developer** February 2018 - March 2022 \
+**Senior Software Developer** February 2018 - March 2022 \
 **Logic20/20**, Seattle, Washington \
 T-Mobile Social & Messaging Product Development (SMPD):* Developed Spring Boot micro-services for event broker bot, utilizing Apache Kafka for event-driven communication between services, integrating various RESTful APIs, and leveraging DynamoDB for highly scalable data storage and retrieval.
 * Owned and implemented infrastructure as code (IaC) practices within the team, utilizing Terraform to provision AWS resources and customizing Kubernetes YAML manifests with Jsonnet for dynamic deployment generation.
