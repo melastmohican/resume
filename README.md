@@ -16,7 +16,7 @@ With over 25 years of experience, I'm a seasoned Software Engineering Leader pas
 **Software Engineer** July 2024 - Present \
 **Intuit**, Contract, Bellevue, Washington (remote) \
 * Managed and optimized search services infrastructure, boosting system performance and reliability.
-* Developed and maintained Java microservices with focus on high availability and scalability.
+* Developed and maintained Java microservices with a focus on high availability and scalability.
 * Collaborated with dev and ops teams to deploy code changes and improve DevOps communication.
 * Migrated AWS infrastructure to IMDSv2, enhancing security through session-based requests and HTTP PUT tokens that prevent SSRF attacks, while ensuring compliance with AWS security standards and future compatibility.
 > _Java, Spring Boot, AWS (KMS, S3, OpenSearch, EC2, Lambda, EKS, DynamoDB), Python, Infrastructure as Code (IaC), Terraform, CloudFormation, CDK, Apache Kafka, Code Refactoring, Code Review,
