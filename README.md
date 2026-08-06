@@ -43,21 +43,6 @@ Intuit Persistence Service (IPS) is a high-scale data platform that provides cen
 * Standardized Infrastructure as Code (IaC) using Terraform, AWS CDK, and CloudFormation to provision and scale resilient, multi-region AWS resources.  
 * Enhanced Platform Observability by integrating CloudWatch metrics with Wavefront, establishing real-time monitoring and proactive alerting for mission-critical search services.
 
-#### **Datalake Platform (Control Plane & Governance)**
-* **Architected Java-based API services** to manage the Datalake control plane, streamlining metadata management and data discovery across the enterprise.
-* **Integrated Unity Catalog**, Hive Management Services, and AWS Glue Data Catalog to provide a unified schema registry and metadata layer for large-scale analytical workloads.
-* **Implemented Fine-Grained Access Control (FGAC)** for data stored on S3, ensuring secure, least-privilege access management at the object level within the Datalake.
-* **Optimized Datalake infrastructure** by automating catalog synchronization and lifecycle management, reducing manual overhead for data producers and consumers.
-
-#### **Search Platform (Distributed Retrieval & ML)**
-* **Developed high-concurrency Java microservices** (Spring Boot, Vert.x) on AWS EKS and EC2, providing low-latency proxy access and robust data ingestion for OpenSearch clusters.
-* **Engineered real-time data pipelines** using Apache Kafka to ingest data-change events at scale, ensuring search indices remained synchronized with primary data stores.
-* **Launched Semantic Search capabilities** by implementing OpenSearch ML pipelines to generate and store vector embeddings, supporting advanced vector-based and text-based search use cases.
-* **Automated Index & Schema Management** using Python-based AWS Lambdas and Step Functions, improving deployment speed and reducing manual configuration errors.
-* **Strengthened Security & Compliance** by migrating infrastructure to IMDSv2 to prevent SSRF attacks and proactively resolving security vulnerabilities across managed software.
-* **Standardized Infrastructure as Code (IaC)** using Terraform, AWS CDK, and CloudFormation to provision and scale resilient, multi-region AWS resources.
-* **Enhanced Platform Observability** by integrating CloudWatch metrics with Wavefront, establishing real-time monitoring and proactive alerting for mission-critical search services.
-
 ---
 
 ### **Principal Software Engineer** | **Veeva Systems**
