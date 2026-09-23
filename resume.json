@@ -1,0 +1,297 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Mariusz Jurgielewicz",
+    "label": "Staff / Principal Software Engineer",
+    "email": "mariusz.jurgielewicz@me.com",
+    "url": "https://www.linkedin.com/in/msjurgie/",
+    "summary": "Backend engineer, 15+ years building distributed, JVM-based systems at scale: Java, Spring Boot, Kafka, relational and NoSQL databases, search infrastructure. Recently shifted from writing AI-assisted code to building the platforms other teams’ AI agents run on, MCP servers, embeddings pipelines, hybrid search. I own systems end to end, from architecture through production, and I'd rather ship something that works than sound impressive describing it.",
+    "location": {
+      "city": "Bellevue",
+      "region": "Washington",
+      "countryCode": "US"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "msjurgie",
+        "url": "https://www.linkedin.com/in/msjurgie/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Intuit",
+      "position": "Senior Software Engineering Consultant",
+      "startDate": "2024-07-01",
+      "summary": "Intuit Persistence Service (IPS) high-scale data platform providing centralized search and data lake capabilities for Intuit’s ecosystem.",
+      "highlights": [
+        "Maintained and enhanced core Java-based API services for enterprise Datalake control plane, extending metadata management, schema synchronization, and data discovery across analytical environments.",
+        "Integrated Camunda workflow tools to automate end-to-end data governance pipelines, schema evolution, catalog synchronization, and metadata lifecycle management across production workloads.",
+        "Engineered enterprise-grade Model Context Protocol (MCP) servers using MCP SDK and Spring AI, exposing secure Datalake metadata, lineage, and catalog APIs to agentic systems (Claude Code, Cursor) for natural-language context retrieval.",
+        "Expanded unified schema management by integrating Unity Catalog, Hive Metastore Services, and AWS Glue Data Catalog into a cohesive metadata layer.",
+        "Engineered advanced Fine-Grained Access Control (FGAC) mechanisms for S3 object storage, continuously enforcing strict least-privilege policies.",
+        "Optimized platform reliability and developer experience with automated pipeline execution features, reducing operational overhead.",
+        "Maintained React/TypeScript admin interface integrating Datalake control-plane management with Intuit internal developer portal.",
+        "Optimized JVM performance and garbage collection for high-concurrency microservices, ensuring low-latency retrieval in OpenSearch clusters.",
+        "Developed high-concurrency Java microservices (Spring Boot, Vert.x) on AWS EKS and EC2 with Kafka real-time ingestion pipelines.",
+        "Designed and launched production-grade Retrieval-Augmented Generation (RAG) systems by implementing OpenSearch ML pipelines to generate and store vector embeddings with token tracking and LLM performance logging.",
+        "Automated Index & Schema Management using Python-based AWS Lambdas and Step Functions.",
+        "Strengthened security & compliance by migrating infrastructure to IMDSv2 to prevent SSRF attacks and remediating vulnerabilities.",
+        "Standardized Infrastructure as Code (IaC) using Terraform, AWS CDK (TypeScript), and CloudFormation for multi-region AWS resources.",
+        "Enhanced platform observability by integrating CloudWatch metrics with Wavefront for real-time monitoring and alerting."
+      ]
+    },
+    {
+      "name": "Veeva Systems",
+      "position": "Principal Software Engineer",
+      "startDate": "2022-03-01",
+      "endDate": "2024-04-01",
+      "summary": "Nitro Data Science and Analytics Platform — Technical Lead for CRM Data Engine (CDE), an event-driven ETL and OLAP analytics platform.",
+      "highlights": [
+        "Led end-to-end technical architecture for CRM Data Engine (CDE), designing decoupled system utilizing Claim Check pattern via S3 and EventBridge/SQS to offload compute to Apache Druid.",
+        "Automated cloud infrastructure deployments using IaC principles with Terraform for AWS resources and Helmfile for Kubernetes deployments.",
+        "Improved team performance by mentoring junior and mid-level engineers on design patterns and unit testing, decreasing defect rates.",
+        "Implemented coding standards framework enhancing code quality and project velocity.",
+        "Served as security liaison managing incident response and coordinating vulnerability assessments with SAST, SCA, and DAST tools.",
+        "Identified and addressed technical debt, leading codebase modernization efforts.",
+        "Resolved critical stability issues in Java Spring Boot ETL platform by diagnosing thread-pool exhaustion during batch ingestion; optimized connection pools and engineered proactive monitoring.",
+        "Managed platform and framework migrations with zero downtime using OpenRewrite for automated code refactoring.",
+        "Maintained React/TypeScript admin interface for ETL engine, providing operational visibility and control over processing workflows."
+      ]
+    },
+    {
+      "name": "Logic20/20",
+      "position": "Lead Software Developer",
+      "startDate": "2018-02-01",
+      "endDate": "2022-03-01",
+      "summary": "T-Mobile Social & Messaging Product Development (SMPD) services and conversational platforms.",
+      "highlights": [
+        "Developed Java Spring Boot microservices for event broker bot using Apache Kafka for event-driven communication, RESTful APIs, and DynamoDB storage.",
+        "Integrated Spring Boot Actuator to gather telemetry, piping metrics to Prometheus and Grafana for real-time system dashboards and proactive production alerting.",
+        "Owned and implemented IaC practices utilizing Terraform for AWS resources and customizing Kubernetes manifests with Jsonnet.",
+        "Significantly reduced service latency by migrating from synchronous REST model to asynchronous Kafka messaging and aggregator pattern architecture.",
+        "Automated CI/CD pipelines using GitLab to streamline build, testing, and deployment of microservices.",
+        "Led migration of microservices from Mesos to Kubernetes.",
+        "Led design and deployment of customer-facing conversational chatbot using RASA framework, custom Python data-enrichment microservices, and MLOps pipelines on AWS SageMaker under a 1-month Apple NPI launch deadline.",
+        "Delivered rapid technical training in Python and RASA for Java developers, accelerating team productivity.",
+        "Developed Python APIs to fetch and enrich data from diverse sources for conversational responses.",
+        "Built internal admin GUI for SMPD platform using Angular and Node.js for operational visibility and control."
+      ]
+    },
+    {
+      "name": "QIAGEN",
+      "position": "Associate Staff Software Developer",
+      "startDate": "2015-03-01",
+      "endDate": "2018-01-01",
+      "summary": "Bioinformatics enterprise web application enhancements and multi-threaded continuous integration platform.",
+      "highlights": [
+        "Developed Java EE web application enhancements per customer requests, ensuring production-ready quality.",
+        "Implemented web and command-line utility status reporting features for visibility into multi-threaded processes.",
+        "Re-architected common application domain objects, services, and tools into Grails plugin for reusability across Grails versions.",
+        "Conducted ongoing refinement and enhancement of existing Continuous Integration (CI) framework.",
+        "Successfully led migration of key projects to newer versions of Grails platform, improving system stability and performance.",
+        "Improved code performance, extensibility, manageability, and testability across Hibernate, Spring, and Oracle databases.",
+        "Collaborated with geographically distributed teams on development initiatives."
+      ]
+    },
+    {
+      "name": "Xerox Content Management",
+      "position": "Senior Software Engineer",
+      "startDate": "2007-07-01",
+      "endDate": "2015-03-01",
+      "summary": "Scalable Enterprise Content Management (ECM) server platform and high-speed ingestion engines.",
+      "highlights": [
+        "Developed high-quality, scalable RESTful web services (API) for ECM server platform using Java and open-source software.",
+        "Engineered flexible, high-speed, multi-threaded document intake module enabling upload rates up to 100 docs/s.",
+        "Provided technical guidance and mentorship to junior team members.",
+        "Addressed development queries across supported platforms and interfaces using deep platform knowledge.",
+        "Conducted training sessions for developers through code samples, guides, and tutorials."
+      ]
+    },
+    {
+      "name": "Saratoga Systems",
+      "position": "Senior Software Engineer",
+      "startDate": "2006-04-01",
+      "endDate": "2007-05-01",
+      "summary": "CRM software line client-server applications and web interfaces.",
+      "highlights": [
+        "Implemented client UI in C++/C# and web-based clients using ActiveX and ASP for CRM software line.",
+        "Used .NET Remoting and web services to create interfaces for client-server applications.",
+        "Created full SDLC documentation including SRS, design descriptions, and verification plans."
+      ]
+    },
+    {
+      "name": "Network General",
+      "position": "Senior Software Engineer",
+      "startDate": "2000-08-01",
+      "endDate": "2006-03-01",
+      "summary": "Distributed network monitoring and protocol analysis products.",
+      "highlights": [
+        "Built distributed network monitoring and analysis products using C++/C#.",
+        "Engineered communication layers using DCOM and TCP/UDP protocols, utilizing XSLT for cross-language structure generation.",
+        "Developed client-side user controls utilizing third-party charts/grids with ADO.NET data sources.",
+        "Automated builds and CI using NAnt, including unit testing, setup generation, and documentation."
+      ]
+    },
+    {
+      "name": "Horizon Computer Consulting",
+      "position": "Programmer/Analyst",
+      "startDate": "1999-06-01",
+      "endDate": "2000-06-01",
+      "summary": "Systems consulting, analysis, and client/server application design.",
+      "highlights": [
+        "Provided systems consulting, analysis, and design for client data processing systems.",
+        "Developed client/server applications using VB, VBSQL, ODBC, and ADO."
+      ]
+    },
+    {
+      "name": "Swiss Soft Ltd",
+      "position": "Software Developer",
+      "startDate": "1995-06-01",
+      "endDate": "1999-06-01",
+      "summary": "Project-controlling and client/server systems for international markets.",
+      "highlights": [
+        "Devised project-controlling systems for Windows using C++ and Win32 API.",
+        "Implemented client/server applications using VB and SQL Server.",
+        "Localized applications for international markets (German, English, French, Polish).",
+        "Prepared installation procedures and wrote reporting interfaces in C++ and VB."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "Java",
+        "Python",
+        "Groovy",
+        "TypeScript",
+        "JavaScript",
+        "C++",
+        "C#",
+        "Visual Basic (VB)"
+      ]
+    },
+    {
+      "name": "AI Frameworks & SDKs",
+      "keywords": [
+        "Spring AI",
+        "Model Context Protocol (MCP Java SDK)",
+        "RASA",
+        "OpenSearch ML Vector Embeddings",
+        "Semantic Search",
+        "Retrieval-Augmented Generation (RAG)"
+      ]
+    },
+    {
+      "name": "Development Tools & Frameworks",
+      "keywords": [
+        "JVM",
+        "Spring Boot",
+        "Vert.x",
+        "Hibernate",
+        "Apache Kafka",
+        "Kafka Streams",
+        "Apache Thrift",
+        "Spring MVC",
+        "Spring Cloud",
+        "Spring Framework",
+        "Grails",
+        "GORM",
+        "Angular",
+        "Node.js",
+        ".NET Framework (.NET Remoting)",
+        "MFC",
+        "Win32 API",
+        "ActiveX",
+        "NAnt"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "keywords": [
+        "Servlet",
+        "JSP",
+        "JSF",
+        "HTML",
+        "HTTP",
+        "RESTful API",
+        "MVC",
+        "JSON",
+        "XML",
+        "XSLT",
+        "OAuth",
+        "ASP",
+        "SOAP",
+        "DCOM",
+        "TCP/UDP"
+      ]
+    },
+    {
+      "name": "Databases & Data Storage",
+      "keywords": [
+        "Spring Data JPA",
+        "AWS (S3, DynamoDB, RDS)",
+        "Redis",
+        "ElastiCache",
+        "PostgreSQL",
+        "H2",
+        "JDBC",
+        "PL/SQL (Oracle)",
+        "Redshift",
+        "Apache Druid",
+        "Microsoft SQL Server",
+        "ADO.NET",
+        "ODBC",
+        "ADO"
+      ]
+    },
+    {
+      "name": "Cloud & Infrastructure",
+      "keywords": [
+        "AWS (KMS, EC2, EKS, SQS, Step Functions)",
+        "Docker",
+        "Microservices",
+        "Load Balancing",
+        "Terraform",
+        "AWS CDK",
+        "CloudFormation",
+        "Helm",
+        "Helmfile",
+        "Jsonnet",
+        "Kustomize",
+        "Infrastructure as Code",
+        "Disaster Recovery",
+        "InstallShield"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "keywords": [
+        "Agile Development",
+        "Design Patterns",
+        "Distributed Systems",
+        "Client-Server Architecture",
+        "Network Monitoring",
+        "Mentoring",
+        "Migration",
+        "SaaS",
+        "Middleware",
+        "Transactions",
+        "Data Driven",
+        "Object Oriented Design",
+        "Debugging",
+        "Troubleshooting",
+        "Technical Documentation"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Wroclaw University of Science and Technology",
+      "area": "Engineering Administration / Data Processing Management Systems",
+      "studyType": "Master of Science"
+    }
+  ]
+}
